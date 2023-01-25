@@ -1,0 +1,6 @@
+framework module CustomMessageKit {
+  umbrella header "CustomMessageKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

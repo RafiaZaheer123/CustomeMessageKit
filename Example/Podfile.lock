@@ -1,0 +1,16 @@
+PODS:
+  - CustomMessageKit (0.1.0)
+
+DEPENDENCIES:
+  - CustomMessageKit (from `../`)
+
+EXTERNAL SOURCES:
+  CustomMessageKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomMessageKit: 506b97af9323cd6544510d31d41daeeea3c4f0b8
+
+PODFILE CHECKSUM: 75ec7e54d8ce837a58a0256069c30acf15f6559f
+
+COCOAPODS: 1.11.3
